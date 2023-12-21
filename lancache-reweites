@@ -16,15 +16,8 @@
 ||nydus.battle.net^$dnsrewrite=192.168.3.61
 
 # epicgames
-||cdn-11.eft-store.com^$dnsrewrite=192.168.3.61
-||cl-453343cd.gcdn.co^$dnsrewrite=192.168.3.61
-||cdn-eu1.homecomingservers.com^$dnsrewrite=192.168.3.61
-||cdn-na1.homecomingservers.com^$dnsrewrite=192.168.3.61
-||cdn-na2.homecomingservers.com^$dnsrewrite=192.168.3.61
-||cdn-na3.homecomingservers.com^$dnsrewrite=192.168.3.61
-||pls.patch.daybreakgames.com^$dnsrewrite=192.168.3.61
-||cdn.unrealengine.com^$dnsrewrite=192.168.3.61
 ||cdn1.epicgames.com^$dnsrewrite=192.168.3.61
+||cdn.unrealengine.com^$dnsrewrite=192.168.3.61
 ||cdn1.unrealengine.com^$dnsrewrite=192.168.3.61
 ||cdn2.unrealengine.com^$dnsrewrite=192.168.3.61
 ||cdn3.unrealengine.com^$dnsrewrite=192.168.3.61
@@ -34,9 +27,6 @@
 ||download4.epicgames.com^$dnsrewrite=192.168.3.61
 ||epicgames-download1.akamaized.net^$dnsrewrite=192.168.3.61
 ||fastly-download.epicgames.com^$dnsrewrite=192.168.3.61
-||cdn.zaonce.net^$dnsrewrite=192.168.3.61
-||filedelivery.nexusmods.com^$dnsrewrite=192.168.3.61
-||level3.nwhttppatch.crypticstudios.com^$dnsrewrite=192.168.3.61
 
 #nintendo
 ||hac.lp1.d4c.nintendo.net^$dnsrewrite=192.168.3.61
@@ -94,56 +84,7 @@
 ||tmdb.np.dl.playstation.net^$dnsrewrite=192.168.3.61
 
 # steam
-||patch-dl.ffxiv.com^$dnsrewrite=192.168.3.61
-||akamai.steamstatic.com^$dnsrewrite=192.168.3.61
-||cm.steampowered.com^$dnsrewrite=192.168.3.61
-||content.steampowered.com^$dnsrewrite=192.168.3.61
-||cs.steampowered.com^$dnsrewrite=192.168.3.61
-||edgecast.steamstatic.com^$dnsrewrite=192.168.3.61
-||hsar.steampowered.com.edgesuite.net^$dnsrewrite=192.168.3.61
-||steam-content-dnld-1.apac-1-cdn.cqloud.com^$dnsrewrite=192.168.3.61
-||steam-content-dnld-1.eu-c1-cdn.cqloud.com^$dnsrewrite=192.168.3.61
-||steam-content-dnld-1.qwilted-cds.cqloud.com^$dnsrewrite=192.168.3.61
-||steamcontent.com^$dnsrewrite=192.168.3.61
-||cdn.mileweb.cs.steampowered.com.8686c.com^$dnsrewrite=192.168.3.61
-||cdn1-sea1.valve.net^$dnsrewrite=192.168.3.61
-||cdn2-sea1.valve.net^$dnsrewrite=192.168.3.61
-||client-download.steampowered.com^$dnsrewrite=192.168.3.61
-||clientconfig.akamai.steamtransparent.com^$dnsrewrite=192.168.3.61
-||content-origin.steampowered.com^$dnsrewrite=192.168.3.61
-||content1.steampowered.com^$dnsrewrite=192.168.3.61
-||content2.steampowered.com^$dnsrewrite=192.168.3.61
-||content3.steampowered.com^$dnsrewrite=192.168.3.61
-||content4.steampowered.com^$dnsrewrite=192.168.3.61
-||content5.steampowered.com^$dnsrewrite=192.168.3.61
-||content6.steampowered.com^$dnsrewrite=192.168.3.61
-||content7.steampowered.com^$dnsrewrite=192.168.3.61
-||content8.steampowered.com^$dnsrewrite=192.168.3.61
-||edge.steam-dns-2.top.comcast.net^$dnsrewrite=192.168.3.61
-||edge.steam-dns.top.comcast.net^$dnsrewrite=192.168.3.61
 ||lancache.steamcontent.com^$dnsrewrite=192.168.3.61
-||st.dl.bscstorage.net^$dnsrewrite=192.168.3.61
-||steam.apac.qtlglb.com^$dnsrewrite=192.168.3.61
-||steam.apac.qtlglb.com.mwcloudcdn.com^$dnsrewrite=192.168.3.61
-||steam.cdn.on.net^$dnsrewrite=192.168.3.61
-||steam.eca.qtlglb.com^$dnsrewrite=192.168.3.61
-||steam.ix.asn.au^$dnsrewrite=192.168.3.61
-||steam.naeu.qtlglb.com^$dnsrewrite=192.168.3.61
-||steamcdn-a.akamaihd.net^$dnsrewrite=192.168.3.61
-||steampipe-kr.akamaized.net^$dnsrewrite=192.168.3.61
-||steampipe.akamaized.net^$dnsrewrite=192.168.3.61
-||update1.csgo.wmsj.cn^$dnsrewrite=192.168.3.61
-||update1.dota2.wmsj.cn^$dnsrewrite=192.168.3.61
-||update2.csgo.wmsj.cn^$dnsrewrite=192.168.3.61
-||update2.dota2.wmsj.cn^$dnsrewrite=192.168.3.61
-||update3.csgo.wmsj.cn^$dnsrewrite=192.168.3.61
-||update3.dota2.wmsj.cn^$dnsrewrite=192.168.3.61
-||update4.csgo.wmsj.cn^$dnsrewrite=192.168.3.61
-||update4.dota2.wmsj.cn^$dnsrewrite=192.168.3.61
-||update5.csgo.wmsj.cn^$dnsrewrite=192.168.3.61
-||update5.dota2.wmsj.cn^$dnsrewrite=192.168.3.61
-||update6.csgo.wmsj.cn^$dnsrewrite=192.168.3.61
-||update6.dota2.wmsj.cn^$dnsrewrite=192.168.3.61
 
 # uplay
 ||cdn.ubi.com^$dnsrewrite=192.168.3.61
